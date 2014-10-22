@@ -1,7 +1,15 @@
 ---
 layout: page
-title: Membrii
-permalink: /membrii.html
+title: Membri
+permalink: /membri.html
 ---
 
-Membrii asociatiei...
+**Ovidiu Covaciu** - Președinte  
+**Eddy Petrișor** - Vice-președinte  
+**Mihai Zaharie** - Vice-președinte  
+
+### Membri fondatori
+
+Miruna Zaharie  
+Adrian Român  
+Andrei Bădilă  
