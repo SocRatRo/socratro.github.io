@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Membrii
-permalink: /membrii.html
+title: Membri
+permalink: /membri.html
 ---
 
 Membrii asociatiei...
