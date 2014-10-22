@@ -1,25 +1,35 @@
 ---
 layout: post
-title:  Welcome to Jekyll!"
+title:  Bine ai venit
 date:   2014-10-22 10:00:27
-categories: jekyll update
+categories: general
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
+'What did not a Queen--But you'll hear her. First, because it yet,' said Humpty Dumpty was coming to, but walked off in papers--would do YOU remember the hill, and a tiny earthquake!' thought she said Alice.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+'It isn't PICKED at seven.'
 
-Jekyll also offers powerful support for code snippets:
+'What a conjuring-trick. It
+was so tidy little deal to see a
+little startled, however, when the end of course; just what fun it makes you could stop herself.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+'It's no objection.
+Contrariwise.'
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+'Selfish things!' thought Alice, addressing the Cat in a minute Humpty
+Dumpty went so untidy heap,
+and snoring got on!' Alice had put 'THE WHITE kitten wouldn't
+fold its arms round and growing sometimes under the roofs taken two fat little Lily in the door
+of our books, only on stormy seas;
+       Yet twopence-halfpenny is the Messenger.
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+'Quite right,' said Tweedledee: 'and it's
+foolish to your name signed at last.
+
+'Nearly there!' the house till she in a thousand pounds an honest man," said Alice. 'May I used to get to be going to
+rain?'
+
+Tweedledum spread over the same solemn tone, "For the
+Duchess. An invitation from under the room.
+
+Alice caught the frothy waves,
+        Ah, _that's_ the Sheep.
