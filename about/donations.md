@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Donatii
+title: Donații
 permalink: /donatii.html
 ---
 
-Cum poti sa donezi...
+Cum poți să donezi...
