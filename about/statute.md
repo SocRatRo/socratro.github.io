@@ -89,7 +89,7 @@ d. membrii sustinatori - prersoanele care adera la scopul Asociatiei, si care sp
 (4) Contributiile membrilor Asociatiei la realizarea scopului si obiectivelor acesteia constau in sprijin financiar, material, moral si activitati voluntare in cadrul programelor si proiectelor initiate sau derulate de Asociate.
 
 **Art. 12**  
-Nu pot fi membrii ai Asociatiei minorii, cei pusi sub interdictie si cei care au fost condamnati definitiv pentru savarsirea unor fapte penale.
+Nu pot fi membri ai Asociatiei minorii, cei pusi sub interdictie si cei care au fost condamnati definitiv pentru savarsirea unor fapte penale.
 
 **Art. 13**  
 (1) Membrii fondatori si membrii asociati ai Asociatiei au urmatoarele drepturi:
