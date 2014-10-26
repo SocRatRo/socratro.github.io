@@ -6,7 +6,7 @@ permalink: /statut.html
 
 ### Capitolul I: Dispozitii Generale
 
-**Art. 1**  
+**Art. 1**
 "Asociatia Societatea Rationalista Romana", denumita in continuare si Asociatia, este fondata potrivit actului consitutiv de:
 
 1. Covaciu Ovidiu
@@ -16,29 +16,29 @@ permalink: /statut.html
 5. Roman Adrian
 6. Badila Andrei-Ionut
 
-**Art. 2**  
+**Art. 2**
 Asociatia este persoana juridica de drept privat fara scop patrimonial.
 
-**Art. 3**  
+**Art. 3**
 **Scopul** Asociatiei il constituie: promovarea si dezvoltarea gandirii critice, stiintei si culturii, cunoasterii si educatiei stiintifice, scepticismului bazat pe cunoastere stiintifica, a unui cadru de toleranta si dialog intre persoane, grupuri si entitati sociale cu viziuni si interese diferite; apararea libertatii de exprimare ca drept fundamental al fiintei umane, de respectarea caruia depinde in mod crucial functionarea unei democratii autentice; imbunatatirea nivelului educational.
 
-**Art. 4**  
+**Art. 4**
 **Denumirea** Asociatiei este "Asociatia Societatea Rationalista Romana" conform dovezii eliberate de Ministerul Justitiei privind disponibilitatea denumirii numarul 117104 din data de 18.10.2012.
 
-**Art. 5**  
+**Art. 5**
 (1) **Sediul** Asociatiei este situat in ███████████████████████████████.
 
 (2) Sediul Asociatiei poate fi schimbat pe baza hotararii Consiliului Director.
 
-**Art. 6**  
+**Art. 6**
 Asociatia se constituie pe o **durata** nelimitata.
 
-**Art. 7**  
+**Art. 7**
 (1) **Patrimoniul** Asociatiei este alcatuit dintr-un activ patrimonial initial, in valoare de 800 lei.
 
 (2) Intregul patrimoniu va fi evidentiat si pastrat in conformitate cu legislatia romana in materie, pe numele Asociatiei, si va fi folosit exclusiv pentru realizarea obiectivelor ei.
 
-**Art. 8**  
+**Art. 8**
 (1) In vederea realizarii scopului Asociatiei potrivit art. 3 din prezentul statut, Asociatia are urmatoarele **obiective**:
 
 - Realizarea si editarea de carti, publicatii periodice, pliante, afise, brosuri, programe informatice si alte materiale informative;
@@ -54,7 +54,7 @@ Asociatia se constituie pe o **durata** nelimitata.
 
 (3) In toate cazurile, schimbarea scopului Asociatiei se poate face numai daca acesta a fost realizat in totalitate sau in parte ori daca acesta nu mai poate fi indeplinit.
 
-**Art. 9**  
+**Art. 9**
 (1) Asociatia se poate afilia cu alte persoane juridice non-profit, din tara si/sau din strainatate, pentru realizarea scopului si obiectivelor sale.
 
 (2) Asociatia isi poate constitui sucursale sau filiale, in tara sau in strainatate, ca structuri teritoriale, pe baza hotararii Adunarii Generale, prin care li se aloca un patrimoniu.
@@ -71,15 +71,15 @@ Asociatia se constituie pe o **durata** nelimitata.
 
 ### Capitolul II: Membrii Asociatiei
 
-**Art. 10**  
+**Art. 10**
 Orice persoana fizica sau juridica, romana sau straina, care accepta Statutul, scopul si obiectivele Asociatiei poate deveni membru al Asociatiei.
 
-**Art. 11**  
+**Art. 11**
 (1) **Membrii** Asociatiei sunt:
 
-a. membrii fondatori - membrii care au constituit Asociatia si au contribuit moral si material la fondarea ei si la constituirea patrimoniului social;  
-b. membrii asociati - membrii care se asociaza ulterior fondarii Asociatiei, care contribuie moral si material la completarea patrimoniului Asociatiei si care, prin activitatea lor, sprijina Asociatia in realizarea obiectivelor acesteia, beneficiind de trepturile prevazute de art. 13 din prezentul Statut; membrii asociati platesc taxa de inscriere si cotizatia anuala stabilita de catre Consiliul Director;  
-c. membrii de onoare - presoane fizice si/sau persoane juridice care, prin activitatea lor, sprijina Asociatia in realizarea obiectivelor acesteia, contribuind din punct de vedere financiar, moral sau functional la realizarea scopului Asociatiei sau - personalitati marcante ale vietii stiintifice, politice, antreprenoriale sau culturale, care s-au remarcat, cu deosebire, in domeniile de interes ale Asociatiei si care, prin activitatea lor, sprijina Asociatia in realizarea obiectivelor acesteia; membrii de onoare sunt scutiti de plata taxei de inscriere, nu platesc cotizatia si nu au dreptul de a alege si nici de a fi alesi;  
+a. membrii fondatori - membrii care au constituit Asociatia si au contribuit moral si material la fondarea ei si la constituirea patrimoniului social;
+b. membrii asociati - membrii care se asociaza ulterior fondarii Asociatiei, care contribuie moral si material la completarea patrimoniului Asociatiei si care, prin activitatea lor, sprijina Asociatia in realizarea obiectivelor acesteia, beneficiind de trepturile prevazute de art. 13 din prezentul Statut; membrii asociati platesc taxa de inscriere si cotizatia anuala stabilita de catre Consiliul Director;
+c. membrii de onoare - presoane fizice si/sau persoane juridice care, prin activitatea lor, sprijina Asociatia in realizarea obiectivelor acesteia, contribuind din punct de vedere financiar, moral sau functional la realizarea scopului Asociatiei sau - personalitati marcante ale vietii stiintifice, politice, antreprenoriale sau culturale, care s-au remarcat, cu deosebire, in domeniile de interes ale Asociatiei si care, prin activitatea lor, sprijina Asociatia in realizarea obiectivelor acesteia; membrii de onoare sunt scutiti de plata taxei de inscriere, nu platesc cotizatia si nu au dreptul de a alege si nici de a fi alesi;
 d. membrii sustinatori - prersoanele care adera la scopul Asociatiei, si care sprijina material si moral Asociatia in realizarea obiectivelor acesteia.
 
 (2) Calitatea de membru asociat sau de membru sustinator al Asociatiei se acorda de catre Consiliul Director, prin votul a cel putin 2/3 din numarul membrilor Consiliului.
@@ -88,57 +88,57 @@ d. membrii sustinatori - prersoanele care adera la scopul Asociatiei, si care sp
 
 (4) Contributiile membrilor Asociatiei la realizarea scopului si obiectivelor acesteia constau in sprijin financiar, material, moral si activitati voluntare in cadrul programelor si proiectelor initiate sau derulate de Asociate.
 
-**Art. 12**  
+**Art. 12**
 Nu pot fi membri ai Asociatiei minorii, cei pusi sub interdictie si cei care au fost condamnati definitiv pentru savarsirea unor fapte penale.
 
-**Art. 13**  
+**Art. 13**
 (1) Membrii fondatori si membrii asociati ai Asociatiei au urmatoarele drepturi:
 
-a. sa-si exprime prin vot optiunea fata de proiectele si de hotararile Adunarii generale;  
-b. sa aleaga si sa fie alesi in Consiliul Director, daca au aptitudini si capacitate pentru functiile pentru care candideaza;  
-c. sa beneficieze de programele initiate de Asociatie;  
-d. sa participe la programele derulate de Asociatie;  
-e. sa beneficieze de serviciile Asociatiei;  
-f. sa beneficieze de rezultatele programelor initiate de Asociatie;  
-g. sa aiba acces la spatiile si dotarile Asociatiei pentru organizarea unor manifestari si activitati in domeniile de interes ale Asociatiei;  
-h. sa ceara Asociatiei sa intervina si sa actioneze pentru promovarea si apararea drepturilor lor;  
-i. sa formuleze propuneri pentru ordinea de zi a sedintelor organelor de conducere la care au dreptul sa participe;  
-j. sa isi exprime liber opiniile proprii in cadrul dezbaterilor organelor de conducere la care au dreptul sa participe;  
+a. sa-si exprime prin vot optiunea fata de proiectele si de hotararile Adunarii generale;
+b. sa aleaga si sa fie alesi in Consiliul Director, daca au aptitudini si capacitate pentru functiile pentru care candideaza;
+c. sa beneficieze de programele initiate de Asociatie;
+d. sa participe la programele derulate de Asociatie;
+e. sa beneficieze de serviciile Asociatiei;
+f. sa beneficieze de rezultatele programelor initiate de Asociatie;
+g. sa aiba acces la spatiile si dotarile Asociatiei pentru organizarea unor manifestari si activitati in domeniile de interes ale Asociatiei;
+h. sa ceara Asociatiei sa intervina si sa actioneze pentru promovarea si apararea drepturilor lor;
+i. sa formuleze propuneri pentru ordinea de zi a sedintelor organelor de conducere la care au dreptul sa participe;
+j. sa isi exprime liber opiniile proprii in cadrul dezbaterilor organelor de conducere la care au dreptul sa participe;
 k. alte drepturi prevazute in regulamentele Asociatiei.
 
 (2) Membrii sustinatori ai Asociatiei si membrii de onoare beneficiaza de drepturile prevazute la art. 13 lit. c-k din prezentul Statut.
 
 (3) Obligatiile membrilor Asociatiei sunt urmatoarele:
 
-a. sa respecte Statutul, regulamentele si hotararile Adunarii Generale si ale Consiliului Director al Asociatiei.  
-b. sa contribuie la realizarea scopului si obiectivelor Asociatiei prin sprijin financiar, material, moral si activitati voluntare in cadrul programelor, proiectelor initiate sau derulate de Asociatie;  
-c. sa indeplineasca obligatiile materiale si financiare potrivit angajamentelor pe care si le-au luat;  
+a. sa respecte Statutul, regulamentele si hotararile Adunarii Generale si ale Consiliului Director al Asociatiei.
+b. sa contribuie la realizarea scopului si obiectivelor Asociatiei prin sprijin financiar, material, moral si activitati voluntare in cadrul programelor, proiectelor initiate sau derulate de Asociatie;
+c. sa indeplineasca obligatiile materiale si financiare potrivit angajamentelor pe care si le-au luat;
 d. sa indeplineasca celelalte obligatii prevazute in regulamentele adoptate de Asociatie.
 
 (4) In cazul savarsirii de catre membrii Asociatiei a urmatoarelor abateri:
 
-a. denigrarea activitatii Asociatiei;  
-b. intreprinderea unor actiuni ce aduc prejudicii de orice natura Asociatiei;  
-c. angajarea Asociatiei in actiuni pentru care nu a fost autorizata de organele de conducere;  
-d. implicarea Asociatiei in activitati politice;  
-e. abaterile de la etica profesionala si morala incluse in Regulamentul de Organizare si Functionare al Asociatiei;  
-f. comiterea unor fapte cu caracter penal, pentru care a fost condamnat prin hotarare judecatoreasca ramasa definitiva;  
+a. denigrarea activitatii Asociatiei;
+b. intreprinderea unor actiuni ce aduc prejudicii de orice natura Asociatiei;
+c. angajarea Asociatiei in actiuni pentru care nu a fost autorizata de organele de conducere;
+d. implicarea Asociatiei in activitati politice;
+e. abaterile de la etica profesionala si morala incluse in Regulamentul de Organizare si Functionare al Asociatiei;
+f. comiterea unor fapte cu caracter penal, pentru care a fost condamnat prin hotarare judecatoreasca ramasa definitiva;
 g. in cazul persoanelor care fac parte din conducerea Asociatiei si neparticiparea sistematica la activitatea structurii de conducere in care au fost alesi sau impiedicarea prin diferite mijloace ca aceasta sa-si desfasoare in mod eficient activitatea.
 
 Sanctiunile care se pot aplica sunt urmatoarele:
 
-a. avertisment;  
-b. avertisment sever si ultimativ;  
-c. suspendarea pe termen determinat din Asociatie sau din functia de conducere potrivit Statutului Asociatiei;  
+a. avertisment;
+b. avertisment sever si ultimativ;
+c. suspendarea pe termen determinat din Asociatie sau din functia de conducere potrivit Statutului Asociatiei;
 d. excluderea din Asociatie.
 
-**Art. 14**  
+**Art. 14**
 (1) Calitatea de membru iceteaza in urmatoarele situatii:
 
-a. prin retragere, in baza unei cereri de retragere ce nu trebuie motivata;  
-b. prin excludere in urmatoarele situatii:  
+a. prin retragere, in baza unei cereri de retragere ce nu trebuie motivata;
+b. prin excludere in urmatoarele situatii:
 
-- incalcarea grava a prevederilor statutare si a hotararilor organismelor de conducere ale Asociatiei,  
+- incalcarea grava a prevederilor statutare si a hotararilor organismelor de conducere ale Asociatiei,
 - ca urmare a unei condamnari, prin hotarare judecatoreasca ramasa definitiva, pentru savarsirea unor fapte cu caracter penal incompatibile cu misiunea si principiile Asociatiei;
 
 (2) Excluderea se face la propunerea Consiliului Director al Asociatiei.
@@ -219,5 +219,5 @@ b. prin excludere in urmatoarele situatii:
 
 ### Capitolul VII: Dispozitii Finale
 
-**Art. 46**  
+**Art. 46**
 Prevederile prezentului Statut se completeaza cu dispozitiile legii.
