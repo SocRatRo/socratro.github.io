@@ -8,7 +8,7 @@ permalink: /membri.html
 **Eddy Petrișor** - Vice-președinte  
 **Mihai Zaharie** - Vice-președinte  
 
-### Membri fondatori
+### Membrii fondatori
 
 Miruna Zaharie  
 Adrian Român  
