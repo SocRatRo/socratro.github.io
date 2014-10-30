@@ -26,8 +26,6 @@ Asociatia este persoana juridica de drept privat fara scop patrimonial.
 **Denumirea** Asociatiei este "Asociatia Societatea Rationalista Romana" conform dovezii eliberate de Ministerul Justitiei privind disponibilitatea denumirii numarul 117104 din data de 18.10.2012.
 
 **Art. 5**  
-(1) **Sediul** Asociatiei este situat in ███████████████████████████████.
-
 (2) Sediul Asociatiei poate fi schimbat pe baza hotararii Consiliului Director.
 
 **Art. 6**  
@@ -146,76 +144,6 @@ b. prin excludere in urmatoarele situatii:
 (3) Competenta excluderii revine Adunarii Generale, mai putin in cazul membrilor fondatori a caror excludere se va face prin votul exclusiv si majoritar al celorlalti membrii fondatori in conditii de cvorum de 100% al acestora.
 
 (4) De la data inregistrarii propuneii si pana la solutionarea acesteia in Adunarea Generala, calitatea de membru al Asociatiei este susependata.
-
-### Capitolul III: Resursele Patrimoniale si Cheltuielile Asociatiei
-
-**Art. 15**
-
-### Capitolul IV: Conducerea si Controlul Asociatiei
-
-**Art. 16**
-
-**Art. 17**
-
-**Art. 18**
-
-**Art. 19**
-
-**Art. 20**
-
-**Art. 21**
-
-**Art. 22**
-
-**Art. 23**
-
-**Art. 24**
-
-**Art. 25**
-
-**Art. 26**
-
-**Art. 27**
-
-**Art. 28**
-
-**Art. 29**
-
-**Art. 30**
-
-**Art. 31**
-
-**Art. 32**
-
-**Art. 33**
-
-### Capitolul V: Veniturile si Cheltuielile Asociatiei
-
-**Art. 34**
-
-**Art. 35**
-
-**Art. 36**
-
-**Art. 37**
-
-### Capitolul VI: Dizolvarea si Lichidarea
-
-**Art. 38**
-
-**Art. 39**
-
-**Art. 40**
-
-**Art. 41**
-
-**Art. 42**
-
-**Art. 43**
-
-**Art. 44**
-
-**Art. 45**
 
 ### Capitolul VII: Dispozitii Finale
 
