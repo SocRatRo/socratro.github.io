@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Donatii
+title: Donații
 permalink: /donatii.html
 ---
 
