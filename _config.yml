@@ -2,12 +2,14 @@
 title: Societatea Raționalistă Română
 email: contact@socrat.ro
 description: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  SocRat este o organizație non-guvernamentală dedicată promovării și 
+  dezvoltării gândirii critice, cunoașterii și educației științifice, 
+  scepticismului bazat pe cunoaștere științifică și apărării libertății 
+  de exprimare.
 url: "http://socratro.github.io"
 timezone: Europe/Bucharest
 encoding: utf-8
+facebook_username: SocRat.ro
 
 # Build settings
 highlighter: true
