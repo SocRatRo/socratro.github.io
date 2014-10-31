@@ -4,8 +4,10 @@ title: Despre noi
 permalink: /despre-noi.html
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Societatea Raționalistă Română este formată de un grup de prieteni care, inițial, au creat împreună emisiunea pe internet (podcast) Sceptici în România.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Sceptici în Romania, este singurul podcast cu apariție regulată, neîntreruptă de peste 4 ani, disponibil gratuit la adresa www.sceptici.ro
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Societatea Rațioanlistă Română și-a propus să ducă mai departe ideile podcastului prin acțiuni dedicate educației științifice, promovării gândirii critice și apărării libertății de exprimare.
+
+Primul nostru proiect ”Ghidul Alegătorului Rațional” a demonstrat că se poate discuta despre politică fără partizanat politic ci doar în scopul educării alegătorului. 
