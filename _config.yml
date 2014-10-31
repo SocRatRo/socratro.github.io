@@ -2,14 +2,15 @@
 title: Societatea Raționalistă Română
 email: contact@socrat.ro
 description: >
-  SocRat este o organizație non-guvernamentală dedicată promovării și 
-  dezvoltării gândirii critice, cunoașterii și educației științifice, 
-  scepticismului bazat pe cunoaștere științifică și apărării libertății 
+  SocRat este o organizație non-guvernamentală dedicată promovării și
+  dezvoltării gândirii critice, cunoașterii și educației științifice,
+  scepticismului bazat pe cunoaștere științifică și apărării libertății
   de exprimare.
 url: "http://socratro.github.io"
 timezone: Europe/Bucharest
 encoding: utf-8
 facebook_username: SocRat.ro
+google_analytics: UA-56280150-1
 
 # Build settings
 highlighter: true
