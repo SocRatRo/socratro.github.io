@@ -233,4 +233,22 @@
             font-size: 18px;
         }
     }
+
+    p {
+        margin: 12px auto 6px auto;
+        font-family: Helvetica, Arial, sans-serif;
+        font-style: normal;
+        font-variant: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: normal;
+        font-size-adjust: none;
+        font-stretch: normal;
+        -x-system-font: none;
+        display: block;
+    }
+
+    a {
+        text-decoration: underline;
+    }
 }
