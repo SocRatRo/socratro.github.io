@@ -18,4 +18,4 @@ Societatea Raționalistă Română cere Ministerului Sănătății să prioritiz
 
 Conform INSP, lipsa de vaccin a ajuns unul din principalele motive de vaccinare incompletă, crescând de la sub 1% in februarie 2014 la aproape 20% din copii ce trebuiau vaccinați în august 2015.
 
-Societatea Raționalistă Română (www.socrat.ro)este o organizație neguvernamentală dedicată promovării și dezvoltării gândirii critice, cunoașterii și educației raționale, scepticismului bazat pe cunoaștere științifică și apărării libertății de exprimare.
+Societatea Raționalistă Română (www.socrat.ro) este o organizație neguvernamentală dedicată promovării și dezvoltării gândirii critice, cunoașterii și educației raționale, scepticismului bazat pe cunoaștere științifică și apărării libertății de exprimare.
