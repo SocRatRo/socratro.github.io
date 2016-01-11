@@ -13,6 +13,6 @@ facebook_username: SocRat.ro
 google_analytics: UA-56280150-1
 
 # Build settings
-highlighter: true
+highlighter: pygments
 markdown: kramdown
 permalink: pretty
