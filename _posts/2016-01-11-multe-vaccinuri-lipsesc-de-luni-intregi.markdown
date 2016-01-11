@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Multe vaccinuri lipsesc de luni întregi. Ministerul Sănătății nu reusește să rezolve criza
+title:  Multe vaccinuri lipsesc de luni întregi. Ministerul Sănătății nu reusește să rezolve criza.
 date:   2016-01-11 12:00:00
 categories: comunicate
 ---
